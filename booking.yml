@@ -1,6 +1,8 @@
 spring:
   application:
     name: BookingMS
+  datasource:
+    url: jdbc:mysql://localhost:3306/flight
 server:
   servlet.context-path: /InfyGoBoot
   port: 8100
