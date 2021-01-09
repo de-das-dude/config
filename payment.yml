@@ -1,6 +1,8 @@
 spring:
   application:
     name: PaymentMS
+  datasource:
+    url: jdbc:mysql://localhost:3306/payment
 server:
   servlet.context-path: /InfyGoBoot
   port: 8300
