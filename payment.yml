@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: PaymentMS
+server:
+  servlet.context-path: /InfyGoBoot
+  port: 8300
