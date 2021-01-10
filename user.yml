@@ -4,5 +4,4 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/users
 server:
-  servlet.context-path: /InfyGoBoot
   port: 8400
