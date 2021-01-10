@@ -4,5 +4,5 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/booking
 server:
-  servlet.context-path: /InfyGoBoot
+  servlet.context-path: /booking
   port: 8100
