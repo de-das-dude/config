@@ -1,8 +1,7 @@
 spring:
   application:
-    name: Booking
+    name: Flight
   datasource:
     url: jdbc:mysql://localhost:3306/booking
 server:
-  servlet.context-path: /booking
   port: 8100
