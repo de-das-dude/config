@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Flight
+    name: Booking
   datasource:
     url: jdbc:mysql://localhost:3306/booking
 server:
