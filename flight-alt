@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Flight
+  datasource:
+    url: jdbc:mysql://localhost:3306/flight
+server:
+  port: 8300
